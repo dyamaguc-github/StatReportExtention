@@ -6,3 +6,7 @@
 /addOns/**/build
 /testutils/build
 /sharedutils/build
+
+# IntelliJ
+#-------
+.idea
